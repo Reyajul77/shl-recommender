@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: shl-recommender
+    env: python
+    buildCommand: "pip install -r requirements.txt && python build.py"
+    startCommand: "uvicorn main:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: GEMINI_API_KEY
+        value: AIzaSyDWRDSHA8NdFVvkuFy5UHcr3G0d4Q_L5og

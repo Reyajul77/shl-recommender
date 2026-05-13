@@ -1,0 +1,698 @@
+[
+  {
+    "name": "Verify Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-reasoning/",
+    "test_type": "A",
+    "description": "Measures ability to work with numerical data, interpret and evaluate numerical information. Suitable for graduate and managerial roles requiring numerical analysis.",
+    "job_levels": [
+      "graduate",
+      "manager",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": true
+  },
+  {
+    "name": "Verify Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-reasoning/",
+    "test_type": "A",
+    "description": "Measures ability to understand and evaluate written information. Suitable for roles requiring strong verbal comprehension.",
+    "job_levels": [
+      "graduate",
+      "manager",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": true
+  },
+  {
+    "name": "Verify Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-inductive-reasoning/",
+    "test_type": "A",
+    "description": "Measures ability to identify patterns and logical rules. Good predictor of problem-solving and learning potential.",
+    "job_levels": [
+      "graduate",
+      "manager",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": true
+  },
+  {
+    "name": "Verify Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/",
+    "test_type": "A",
+    "description": "Measures ability to draw logical conclusions from given information.",
+    "job_levels": [
+      "graduate",
+      "manager"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Verify Mechanical Comprehension",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-mechanical-comprehension/",
+    "test_type": "A",
+    "description": "Assesses understanding of mechanical concepts and physical principles. Ideal for engineering and technical roles.",
+    "job_levels": [
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Verify Spatial Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-spatial-reasoning/",
+    "test_type": "A",
+    "description": "Measures ability to mentally manipulate and reason with 2D and 3D shapes.",
+    "job_levels": [
+      "professional",
+      "technical"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Verify G+",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-plus/",
+    "test_type": "A",
+    "description": "General ability test measuring verbal, numerical and inductive reasoning together. Adaptive and efficient.",
+    "job_levels": [
+      "graduate",
+      "manager",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": true
+  },
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32r/",
+    "test_type": "P",
+    "description": "Occupational Personality Questionnaire. Measures 32 personality characteristics relevant to work behavior, leadership, and interpersonal style. Gold standard personality assessment.",
+    "job_levels": [
+      "all"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "OPQ32n",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32n/",
+    "test_type": "P",
+    "description": "Normative version of OPQ32. Measures workplace personality traits using Likert-scale format.",
+    "job_levels": [
+      "all"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "MQ (Motivation Questionnaire)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mq/",
+    "test_type": "P",
+    "description": "Assesses motivational style, energy and engagement at work. Identifies what conditions drive an individual's performance.",
+    "job_levels": [
+      "all"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "SJT - Personality based Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/situational-judgement/",
+    "test_type": "P",
+    "description": "Situational judgement test measuring personality-relevant behaviors in realistic work scenarios.",
+    "job_levels": [
+      "graduate",
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "test_type": "K",
+    "description": "Assesses knowledge of Java 8 programming language including OOP concepts, streams, and lambda expressions.",
+    "job_levels": [
+      "entry",
+      "professional",
+      "senior"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Core Java",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java/",
+    "test_type": "K",
+    "description": "Tests fundamental Java programming skills including data structures, algorithms, and OOP principles.",
+    "job_levels": [
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "test_type": "K",
+    "description": "Assesses Python programming proficiency including syntax, data structures, libraries, and problem-solving.",
+    "job_levels": [
+      "entry",
+      "professional",
+      "senior"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-new/",
+    "test_type": "K",
+    "description": "Tests SQL knowledge including queries, joins, subqueries, and database concepts.",
+    "job_levels": [
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "test_type": "K",
+    "description": "Assesses JavaScript proficiency including ES6+, DOM manipulation, async programming, and frameworks.",
+    "job_levels": [
+      "entry",
+      "professional",
+      "senior"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": ".NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dot-net-new/",
+    "test_type": "K",
+    "description": "Assesses .NET framework knowledge and C# programming skills.",
+    "job_levels": [
+      "entry",
+      "professional",
+      "senior"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "C# (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-sharp-new/",
+    "test_type": "K",
+    "description": "Tests C# programming language proficiency and .NET ecosystem knowledge.",
+    "job_levels": [
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "C++ (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-plus-plus-new/",
+    "test_type": "K",
+    "description": "Assesses C++ programming skills including memory management, STL, and OOP.",
+    "job_levels": [
+      "entry",
+      "professional",
+      "senior"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Automata Pro",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-pro/",
+    "test_type": "K",
+    "description": "Advanced coding simulation test measuring real-world programming ability through coding challenges in multiple languages.",
+    "job_levels": [
+      "professional",
+      "senior"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Automata Front End",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-front-end/",
+    "test_type": "K",
+    "description": "Coding test focused on front-end web development skills including HTML, CSS, JavaScript.",
+    "job_levels": [
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-accounting-new/",
+    "test_type": "K",
+    "description": "Tests knowledge of financial accounting principles, balance sheets, and financial reporting.",
+    "job_levels": [
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Business Analysis (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-analysis-new/",
+    "test_type": "K",
+    "description": "Assesses business analysis skills including requirements gathering, process mapping, and stakeholder management.",
+    "job_levels": [
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Data Analysis (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-analysis-new/",
+    "test_type": "K",
+    "description": "Tests ability to interpret, analyze, and draw conclusions from data sets.",
+    "job_levels": [
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Microsoft Excel (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-excel-new/",
+    "test_type": "K",
+    "description": "Assesses proficiency in Microsoft Excel including formulas, pivot tables, and data visualization.",
+    "job_levels": [
+      "entry",
+      "professional",
+      "admin"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Microsoft Word (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-word-new/",
+    "test_type": "K",
+    "description": "Tests knowledge of Microsoft Word including formatting, templates, and document management.",
+    "job_levels": [
+      "entry",
+      "admin"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Technology Professional 8.0 - Short",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/technology-professional-8-short/",
+    "test_type": "K",
+    "description": "Comprehensive technology knowledge assessment for IT professionals covering networking, security, and systems.",
+    "job_levels": [
+      "professional",
+      "senior"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "SVAR - Spoken English (Indian)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian/",
+    "test_type": "K",
+    "description": "Automated spoken English assessment designed for Indian English speakers. Measures pronunciation, fluency, and comprehension.",
+    "job_levels": [
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "English Comprehension (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
+    "test_type": "K",
+    "description": "Tests English reading comprehension and language understanding ability.",
+    "job_levels": [
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Graduate 8.0 (Short)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-short/",
+    "test_type": "A",
+    "description": "Cognitive ability battery for graduate-level candidates. Assesses verbal, numerical, and abstract reasoning.",
+    "job_levels": [
+      "graduate"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Managerial & Professional 7.1 (Short)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-professional-7-short/",
+    "test_type": "A",
+    "description": "Cognitive assessment for managerial and professional roles measuring critical reasoning skills.",
+    "job_levels": [
+      "manager",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Operational 7.1 (Short)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/operational-7-short/",
+    "test_type": "A",
+    "description": "Cognitive assessment designed for operational and frontline roles.",
+    "job_levels": [
+      "entry",
+      "operational"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Customer Service 7.1 (Short)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-7-short/",
+    "test_type": "B",
+    "description": "Behavioral assessment measuring customer service competencies including empathy, patience, and problem resolution.",
+    "job_levels": [
+      "entry",
+      "operational"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Sales 7.1 (Short)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-7-short/",
+    "test_type": "B",
+    "description": "Behavioral assessment for sales roles measuring persuasion, resilience, and customer focus.",
+    "job_levels": [
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "General Sales Ability (GSA)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-sales-ability/",
+    "test_type": "A",
+    "description": "Cognitive ability test specifically designed for sales roles. Measures reasoning ability in sales contexts.",
+    "job_levels": [
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "RemoteWorkQ",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/remoteworkq/",
+    "test_type": "P",
+    "description": "Personality questionnaire assessing suitability and effectiveness for remote/hybrid working environments.",
+    "job_levels": [
+      "all"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Smart Interview Live",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-live/",
+    "test_type": "B",
+    "description": "AI-powered video interview platform for structured behavioral and competency-based interviewing.",
+    "job_levels": [
+      "all"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Smart Interview On Demand",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-on-demand/",
+    "test_type": "B",
+    "description": "Asynchronous video interview tool allowing candidates to record responses to structured questions.",
+    "job_levels": [
+      "all"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "R (Programming)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/r-programming/",
+    "test_type": "K",
+    "description": "Tests R programming language proficiency for data science and statistical analysis roles.",
+    "job_levels": [
+      "professional",
+      "senior"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Scala",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/scala/",
+    "test_type": "K",
+    "description": "Assesses Scala programming skills for big data and functional programming roles.",
+    "job_levels": [
+      "professional",
+      "senior"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Machine Learning (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/machine-learning-new/",
+    "test_type": "K",
+    "description": "Tests knowledge of machine learning concepts, algorithms, model evaluation, and practical ML implementation.",
+    "job_levels": [
+      "professional",
+      "senior"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+    "test_type": "K",
+    "description": "Assesses knowledge of Agile methodologies, Scrum, Kanban, and agile best practices.",
+    "job_levels": [
+      "professional",
+      "manager"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Cyber Security (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cyber-security-new/",
+    "test_type": "K",
+    "description": "Tests knowledge of cybersecurity concepts, threat management, and security protocols.",
+    "job_levels": [
+      "professional",
+      "senior"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Cloud Computing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-new/",
+    "test_type": "K",
+    "description": "Assesses cloud computing knowledge including AWS, Azure, and GCP concepts.",
+    "job_levels": [
+      "professional",
+      "senior"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "DevOps (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/devops-new/",
+    "test_type": "K",
+    "description": "Tests DevOps practices including CI/CD, containerization, infrastructure as code, and monitoring.",
+    "job_levels": [
+      "professional",
+      "senior"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "UNIX/Linux (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/unix-linux-new/",
+    "test_type": "K",
+    "description": "Assesses knowledge of Unix/Linux operating systems, shell scripting, and system administration.",
+    "job_levels": [
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "PHP (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/php-new/",
+    "test_type": "K",
+    "description": "Tests PHP programming skills for web development roles.",
+    "job_levels": [
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Ruby on Rails (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ruby-on-rails-new/",
+    "test_type": "K",
+    "description": "Assesses Ruby on Rails framework knowledge for web development.",
+    "job_levels": [
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Android (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/android-new/",
+    "test_type": "K",
+    "description": "Tests Android mobile app development skills including Kotlin/Java and Android SDK.",
+    "job_levels": [
+      "professional",
+      "senior"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "iOS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ios-new/",
+    "test_type": "K",
+    "description": "Assesses iOS mobile app development skills including Swift and Xcode.",
+    "job_levels": [
+      "professional",
+      "senior"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "HTML5/CSS3 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/html5-css3-new/",
+    "test_type": "K",
+    "description": "Tests front-end web development skills including HTML5 semantics and CSS3 styling.",
+    "job_levels": [
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Selenium (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+    "test_type": "K",
+    "description": "Assesses Selenium automation testing framework knowledge.",
+    "job_levels": [
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+    "test_type": "K",
+    "description": "Tests software manual testing skills including test case design, bug reporting, and QA processes.",
+    "job_levels": [
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Accounting & Finance (Short)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounting-finance-short/",
+    "test_type": "K",
+    "description": "Tests accounting and finance knowledge for entry to professional level finance roles.",
+    "job_levels": [
+      "entry",
+      "professional"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Entry Level Sales 7.1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7/",
+    "test_type": "B",
+    "description": "Behavioral assessment designed specifically for entry-level sales positions.",
+    "job_levels": [
+      "entry"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Contact Center Agent Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-agent-solution/",
+    "test_type": "B",
+    "description": "Assessment for contact center and customer service agent roles.",
+    "job_levels": [
+      "entry",
+      "operational"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Supervisory Skills 5.1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/supervisory-skills/",
+    "test_type": "K",
+    "description": "Assesses knowledge of supervisory and team leadership skills.",
+    "job_levels": [
+      "manager",
+      "supervisor"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  },
+  {
+    "name": "Workplace Safety (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-new/",
+    "test_type": "K",
+    "description": "Tests workplace safety knowledge, protocols, and risk assessment.",
+    "job_levels": [
+      "entry",
+      "operational"
+    ],
+    "remote_testing": true,
+    "adaptive": false
+  }
+]
